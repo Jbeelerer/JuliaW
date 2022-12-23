@@ -1,0 +1,74 @@
+body{
+    background-color: #e2dbd4;
+}
+.content {
+    position: absolute;
+    left: 0;
+    top: 0;
+    right: 0;
+    bottom: 0;
+    height: 100%;
+    width: auto;
+    background-repeat: no-repeat;
+}
+.copic{ 
+    position: absolute;
+    left: 0;
+    top: 0;
+    right: 50%;
+    bottom: 0;
+}
+.inputs{
+
+    position: absolute;
+    left: 50%;
+    top: 10%;
+    right: 0;
+    bottom: 0;
+}
+.bg{
+    background-image: url("bg.svg");
+}
+.shadows{
+    background-image: url("shadows.svg");
+}
+label{
+    display: block;
+    margin: 10px;
+}
+.a1{
+    background-image: url("1.svg");
+}
+.a2 {
+    background-image: url("2.svg");
+}
+.a3{
+    background-image: url("3.svg");
+}
+.a4 {
+    background-image: url("4.svg");
+}
+.a5{
+    background-image: url("5.svg");
+}
+.a6 {
+    background-image: url("6.svg");
+}
+.a7{
+    background-image: url("7.svg");
+}
+.a8 {
+    background-image: url("8.svg");
+}
+.a9 {
+    background-image: url("9.svg");
+}
+.a10 {
+    background-image: url("10.svg");
+}
+.a11 {
+    background-image: url("11.svg");
+}
+.a12 {
+    background-image: url("12.svg");
+}
