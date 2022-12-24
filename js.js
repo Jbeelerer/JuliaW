@@ -296,7 +296,7 @@ function hexToRgb(hex) {
 
 $(document).ready(() => {
     $('button.submit').click(() => {
-        for(var i = 1; i < 12; i++)//see that I removed the $ preceeding the `for` keyword, it should not have been there
+        for(var i = 1; i <= 12; i++)//see that I removed the $ preceeding the `for` keyword, it should not have been there
         {
         const rgb = hexToRgb($('input.b'+i).val());
         if (rgb.length !== 3) {
